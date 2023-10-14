@@ -24,8 +24,8 @@ Step 8 : Save and Run the Program.
 
 ## Program:
 ```
-Developed by: Balureddy Velayudham Gowtham
-Reg No.: 212222040024
+Developed by: GEORGE PAUL TONY .C
+Reg No.: 212222040043
 ```
 ## i) Explaining the differences:
 ## block.x=1023
